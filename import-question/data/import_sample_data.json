@@ -1,0 +1,522 @@
+[
+  {
+    "orgId": "",
+    "mainSentence": "pHがエナメル質の臨界pHよりも高いのはどれか。１つ選べ。",
+    "explanationMain": "エナメル質の臨界pHと飲食物のpHの関係について理解する。<br /><br />　エナメル質の臨界pHとは、エナメル質より無機質が溶出し始めるpHで、概ね5.5程度である。摂取した飲食物やプラーク中細菌の産生した有機酸の影響によって臨界pH以下になると、エナメル質の無機質が溶け出す。この臨界pHは概ね5.5であるが、唾液中のリン酸およびカルシウム濃度によって多少異なる。<br />　最近、欧米諸国では歯の酸蝕症の増加が問題視されており、その酸蝕症とは、細菌の関与なしに歯の表面が化学的に溶けることである。その外因的な原因の一つに、酸性食品や飲料の摂取が指摘されている。",
+    "explanationImageIds": [],
+    "subSentence": "",
+    "questionChoices": [
+      {
+        "text": "黒　酢",
+        "isCorrect": false,
+        "explanation": "×　黒酢のpHは3.0程度であるため、エナメル質の臨界pH5.5より低い。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "緑　茶",
+        "isCorrect": true,
+        "explanation": "○　緑茶のpHは7.0程度であるため、エナメル歯の臨界pH5.5より高い。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "コーラ",
+        "isCorrect": false,
+        "explanation": "×　コーラのpHは3.0程度であるため、エナメル質の臨界pH5.5より低い。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "白ワイン",
+        "isCorrect": false,
+        "explanation": "×　白ワインのpHは2.3程度であるため、エナメル質の臨界pH5.5より低い。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "オレンジジュース",
+        "isCorrect": false,
+        "explanation": "×　オレンジジュースのpHは3.0～4.0程度であるため、エナメル質の臨界pH5.5より低い。",
+        "explanationImageIds": [],
+        "imageId": null
+      }
+    ],
+    "questionType": true,
+    "imageIds": [],
+    "tags": [
+      {
+        "text": "国試第101回"
+      }
+    ],
+    "isDraft": true
+  },
+  {
+    "orgId": "",
+    "mainSentence": "舌を突出させるのはどれか。１つ選べ。",
+    "explanationMain": "舌を構成する骨格筋の役割を問う問題である。<br /><br />舌筋は舌下神経によって支配される骨格筋で、外舌筋<sub> <@sub>(オトガイ舌筋、舌骨舌筋、茎突舌筋)と内舌筋（上縦舌筋・下縦舌筋、横舌筋、垂直舌筋）からなる。舌の位置を変えるのが外舌筋で、舌の形を変えるのは内舌筋である。<br /><br />",
+    "explanationImageIds": [],
+    "subSentence": "",
+    "questionChoices": [
+      {
+        "text": "縦舌筋",
+        "isCorrect": false,
+        "explanation": "×　縦舌筋は舌を短縮させる働きをする筋で、舌の位置を変える働きはない。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "茎突舌筋",
+        "isCorrect": false,
+        "explanation": "×　茎突舌筋は舌を後方に引くと同時に、舌背を高める働きをする。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "舌骨舌筋",
+        "isCorrect": false,
+        "explanation": "×　舌骨舌筋は舌を後方に引くと同時に、舌の側縁を下に引く働きをする。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "口蓋舌筋",
+        "isCorrect": false,
+        "explanation": "×　口蓋舌筋は横舌筋の続きで、軟口蓋の中心部を占める。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "オトガイ舌筋",
+        "isCorrect": true,
+        "explanation": "○　オトガイ舌筋は舌を前方に突出させたり、舌の中央部を下に引く。",
+        "explanationImageIds": [],
+        "imageId": null
+      }
+    ],
+    "questionType": true,
+    "imageIds": [],
+    "tags": [
+      {
+        "text": "国試第101回"
+      }
+    ],
+    "isDraft": true
+  },
+  {
+    "orgId": "",
+    "mainSentence": "カルシウム拮抗薬服薬中にみられる口腔症状はどれか。１つ選べ。",
+    "explanationMain": "口腔顎顔面領域に現れる副作用、有害作用を理解する。<br /><br />【口内炎、舌炎】<br />　多くの抗菌薬で２次的副作用であるビタミンＢ欠乏症に伴って出現する。<br />【口内乾燥（口渇）】<br />　酸性非ステロイド性抗炎症薬の多くは口内乾燥（口渇）や口内炎を起こす。<br />【唾液過多（流涎）】<br />　ネオスチグミン（ACE阻害薬）；アンフェナックナトリウム、アンピロキシカム、チアプロフェン酸（酸性非ステロイド性抗炎症薬）；チオペンタール（全身麻酔薬）：ゾニサミド、クロナゼパム（抗てんかん薬）などで起こる。<br />【味覚異常】<br />　ジクロフェナックナトリウム、アルミノプロフェンなどの酸性非ステロイド性抗炎症薬、オフロキサシン、クラリスロマイシン、ミノサイクリンなどの抗菌薬、多くの抗ウイルス薬やACE阻害薬などで起こる。",
+    "explanationImageIds": [],
+    "subSentence": "",
+    "questionChoices": [
+      {
+        "text": "舌　炎",
+        "isCorrect": false,
+        "explanation": "×　舌炎は抗菌薬によるビタミンＢ欠乏症の２次的副作用として現れるが、カルシウム拮抗薬にはみられない。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "歯肉潰瘍",
+        "isCorrect": false,
+        "explanation": "×　歯肉潰瘍は多くのセフェム系抗菌薬にみられるが、カルシウム拮抗薬にはみられない｡",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "歯肉出血",
+        "isCorrect": false,
+        "explanation": "×　歯肉出血は血栓溶解剤や抗血小板薬にみられる副作用で、カルシウム拮抗薬にはみられない。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "歯肉肥厚",
+        "isCorrect": true,
+        "explanation": "○　歯肉肥厚（肥大）はほとんどのカルシウム拮抗薬に共通した副作用である。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "味覚異常",
+        "isCorrect": false,
+        "explanation": "×　味覚異常は多くのACE阻害薬などにみられるが、カルシウム拮抗薬にはみられない。",
+        "explanationImageIds": [],
+        "imageId": null
+      }
+    ],
+    "questionType": true,
+    "imageIds": [],
+    "tags": [
+      {
+        "text": "国試第101回"
+      }
+    ],
+    "isDraft": true
+  },
+  {
+    "orgId": "",
+    "mainSentence": "歯髄刺激性が最も強いのはどれか。１つ選べ。",
+    "explanationMain": "歯科用セメントの歯髄刺激性について理解する。<br /><br />　粉末と液成分を把握するため各種セメントの主な成分を下表にまとめた。粉末は無機質粉末が主体で、硬化したセメントの物理的、機械的性質に寄与している。<br />　一般に液と粉末成分は練和し反応させ、硬化させるが、液によって歯髄刺激が生じることが多い。<br />　リン酸溶液は強酸性（pH１程度）で、酸化亜鉛粉末と練和直後でもpH３～４で、刺激しやすい。<br />　接着性モノマーはジメタクリレートないしメタクリレートレジンにポリマーや無機質粉末を混合させて使用するが、モノマーによる刺激が生じることがある。<br />　ポリアクリル酸は高分子酸なので、刺激は少ないことが明らかにされている。<br />　ユージノールはむしろ鎮痛作用を有していて刺激はないと考えられる。<br /><br />\n<img src=\"..@InportOldExam@OldExam@20170921@101@3b5a4f6bea1ca21fde209047160865ce10e10e18.jpg\"@>",
+    "explanationImageIds": [],
+    "subSentence": "",
+    "questionChoices": [
+      {
+        "text": "リン酸亜鉛セメント",
+        "isCorrect": true,
+        "explanation": "○　リン酸亜鉛セメントは粉末の酸化亜鉛と液の正リン酸溶液を練和して使用する。正リン酸は歯髄を刺激する。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "接着性レジンセメント",
+        "isCorrect": false,
+        "explanation": "×　接着性レジンセメント液はモノマーで、粉末はPMMAなどのポリマーである。液のモノマーは刺激性があるが、リン酸より弱い。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "カルボキシレートセメント",
+        "isCorrect": false,
+        "explanation": "×　カルボキシレートセメント液はポリカルボン酸（ポリアクリル酸）で歯髄刺激性は少ない。粉末は酸化亜鉛であるので刺激は少ない。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "グラスアイオノマーセメント",
+        "isCorrect": false,
+        "explanation": "×　グラスアイオノマーセメントの粉末はアルミノシリケートガラスで、液はポリカルボン酸であり歯髄刺激は少ない。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "酸化亜鉛ユージノールセメント",
+        "isCorrect": false,
+        "explanation": "×　酸化亜鉛ユージノールセメントの粉は酸化亜鉛で、液はオリーブ油とユージノール（丁字油）で歯髄に対して鎮静作用を持ち、刺激性はない。",
+        "explanationImageIds": [],
+        "imageId": null
+      }
+    ],
+    "questionType": true,
+    "imageIds": [],
+    "tags": [
+      {
+        "text": "国試第101回"
+      }
+    ],
+    "isDraft": true
+  },
+  {
+    "orgId": "",
+    "mainSentence": "採得した印象に対してまず行うのはどれか。１つ選べ。",
+    "explanationMain": "印象採得物の消毒方法を理解する。<br /><br />＜印象採得物へ石膏を流す基本的手順＞<br />①印象の変形に注意しながら、唾液や血液等の汚染物を流水下できれいに洗い流す。<br />②消毒液への浸透を行う。<br />③印象表面の石膏の濡れを良くするため、表面活性剤の噴射塗布を行う。<br />④正確な混水比で石膏を注入する。<br /><br />",
+    "explanationImageIds": [],
+    "subSentence": "",
+    "questionChoices": [
+      {
+        "text": "石膏の注入",
+        "isCorrect": false,
+        "explanation": "×　印象採得直後の印象表面には唾液や血液等の汚染物が付着しているため、院内感染や模型精度の点から、直ぐに石膏を注入するのは良くない。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "紫外線の照射",
+        "isCorrect": false,
+        "explanation": "×　印象採得物に紫外線を照射して滅菌を行うことはない。紫外線照射は消毒・滅菌を終えた器具の保管に利用される。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "消毒薬への浸漬",
+        "isCorrect": false,
+        "explanation": "×　印象採得物を消毒する前に、まず印象表面に付着した唾液や血液等の汚染物を流水下で良く洗い流す必要がある。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "流水下での水洗",
+        "isCorrect": true,
+        "explanation": "○　印象採得後は、まず印象表面に付着した唾液や血液等の汚染物を流水下で良く洗い流してから、次の操作へと進むのが基本原則である。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "表面活性剤の塗布",
+        "isCorrect": false,
+        "explanation": "×　印象表面の石膏の濡れを良くするために表面活性剤を塗布することはあるが、まず印象表面に付着した唾液や血液等の汚染物を流水下で良く洗い流してからでなければ、その効果はない。",
+        "explanationImageIds": [],
+        "imageId": null
+      }
+    ],
+    "questionType": true,
+    "imageIds": [],
+    "tags": [
+      {
+        "text": "国試第101回"
+      }
+    ],
+    "isDraft": true
+  },
+  {
+    "orgId": "",
+    "mainSentence": "感染予防に適した弾性印象材はどれか。１つ選べ。",
+    "explanationMain": "疎水性の弾性印象材と感染予防との関連を理解する。<br /><br />　弾性印象材は「合成ゴム印象材」と「ハイドロコロイド印象材」に分けられる。<br />１．合成ゴム印象材（次の三つ）<br />(1)シリコーンゴム印象材<br />　重合方式によって付加型と縮合型に分けられるが両方とも撥水（疎水）性であり、付加型の方は重合時の収縮が少ない。また硬化がシャープである。シリコーンゴムは撥水性で、消毒液に浸漬しても寸法安定性を示す。<br />(2)ポリサルファイド印象材<br />　合成ゴム印象材で硬化が一番ゆっくりで永久ひずみも比較的大きい。疎水性であるが、硬化すると剛性が大きくなり、寸法安定性はシリコーンゴム印象材より悪い。<br />(3)ポリエーテル印象材<br />　親水性で、消毒液に長時間浸漬すると膨潤して変形する。<br />２．ハイドロコロイド印象材（寒天、アルジネート印象材）<br />　消毒液浸漬をごく短時間（10分以内）で行わないと膨潤し、また乾燥させると離液現象で収縮し、寸法変化が大きい。<br /><br />※機能印象材は硬化しない。これは、粉末にはガラス転移点の低いポリマーを使用し、液には可塑剤とアルコールが加えられている。粉末と液を混和するとゲル化し、これを口腔内に入れて3～10日間程度機能的印象を採得する。弾性的であるのは液がゲルの状態にある時のみで､液は徐々に溶け出し硬くなり、吸水もしない。",
+    "explanationImageIds": [],
+    "subSentence": "",
+    "questionChoices": [
+      {
+        "text": "寒　天",
+        "isCorrect": false,
+        "explanation": "×　寒天は水成印象材で親水性がある。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "機能印象材",
+        "isCorrect": false,
+        "explanation": "×　機能印象材は弾性印象材ではない。また親水性ではない。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "アルジネート",
+        "isCorrect": false,
+        "explanation": "×　アルジネートは水成印象材であり、吸水し易いので滅菌し難い。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "シリコーンゴム",
+        "isCorrect": true,
+        "explanation": "○　シリコーンゴムは溌水性であり、消毒液に浸しても寸法変化は殆んど生じない。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "ポリエーテルゴム",
+        "isCorrect": false,
+        "explanation": "×　ポリエーテルゴムは多少吸水性がある。水分を吸収して寸法変化を生じ易い。",
+        "explanationImageIds": [],
+        "imageId": null
+      }
+    ],
+    "questionType": true,
+    "imageIds": [],
+    "tags": [
+      {
+        "text": "国試第101回"
+      }
+    ],
+    "isDraft": true
+  },
+  {
+    "orgId": "",
+    "mainSentence": "上下顎臼歯部の咬合支持を把握するのはどれか。１つ選べ。",
+    "explanationMain": "臼歯部の咬合支持を把握するのに用いる分類を問う出題である。<br /><br />LeFortの分類が骨切りと骨折の両方に用いられるのは、骨切りの線が、骨切り困難でないラインに設定されているからである。<br />上下顎臼歯部の咬合支持の状態は補綴において重要であり、咬合支持が失われていると顎位や咬合高径などの決定が難しくなる。<br /><br />",
+    "explanationImageIds": [],
+    "subSentence": "",
+    "questionChoices": [
+      {
+        "text": "Angleの分類",
+        "isCorrect": false,
+        "explanation": "×　Angleの分類は、第一臼歯の近遠心的関係をもとにした不正咬合の分類方法である。上顎歯列弓を分類の基礎とし、上顎歯列弓の位置異常を認めていない。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "LeFortの分類",
+        "isCorrect": false,
+        "explanation": "×　LeFortの分類は、上顎骨骨切の術式と上顎骨の骨折形式の分類である。外科的矯正治療では上顎歯槽骨の位置異常がある時はLeFortⅠ、中顔面の陥凹（劣成長）がある時はⅡまたはⅢを行う。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "Eichnerの分類",
+        "isCorrect": true,
+        "explanation": "○　Eichnerの分類では、咬合位を支持する部位を支持域と呼び、左右の大臼歯と小臼歯による計４箇所の支持域の咬合状態により、支持状態を分類する。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "Kennedyの分類",
+        "isCorrect": false,
+        "explanation": "×　Kennedyの分類は、歯の欠損領域の分布を根拠にした分類方法である。上下の関係には注目していないため、咬合状態はわからない。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "Glickmanの分類",
+        "isCorrect": false,
+        "explanation": "×　Glickmanの分類は、歯周炎における多根歯の分岐部病変の分類である。進行度は４段階に分けられ、進行度によって歯根分割などの術式が選択される。",
+        "explanationImageIds": [],
+        "imageId": null
+      }
+    ],
+    "questionType": true,
+    "imageIds": [],
+    "tags": [
+      {
+        "text": "国試第101回"
+      }
+    ],
+    "isDraft": true
+  },
+  {
+    "orgId": "",
+    "mainSentence": "複数の抗悪性腫瘍薬を併用する目的はどれか。１つ選べ。",
+    "explanationMain": "薬物の併用によって生じる効果を理解する。<br /><br />薬物を併用すると、単独で用いた場合と比べ、作用が増強される（協力作用）ため、少量で同様の効果が得られ、有害作用の軽減を目的に臨床応用される。<br />また、併用により作用が減弱する（拮抗作用）こともある。協力作用や拮抗作用は薬物の有用な効果（薬効）だけでなく、副作用や有害作用にも起こる現象である。<br />拮抗作用の臨床応用は、薬物中毒の治療に解毒薬を投与する場合など、薬物による有害作用を併用薬によって弱める目的で使用される。<br /><br />",
+    "explanationImageIds": [],
+    "subSentence": "",
+    "questionChoices": [
+      {
+        "text": "不安の除去",
+        "isCorrect": false,
+        "explanation": "×　抗悪性腫瘍薬には抗不安作用はないので抗悪性腫瘍薬を併用しても不安を除去できない。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "服薬率の向上",
+        "isCorrect": false,
+        "explanation": "×　服薬率（服薬コンプライアンス）とは薬を指示通りに服用すること。一般に服用する薬の数が増加すると服薬率は低下する。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "抗腫瘍効果の増強",
+        "isCorrect": true,
+        "explanation": "○　作用機序の異なる抗悪性腫瘍薬を併用することで、効果は増強される。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "薬物選択の多様化",
+        "isCorrect": false,
+        "explanation": "×　処方された複数の薬は全て服用しなければならないので、薬物選択の多様化にはならない。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "薬物相互作用の防止",
+        "isCorrect": false,
+        "explanation": "×　薬物相互作用は薬物の併用によって現れる現象であり、防止にはならない。",
+        "explanationImageIds": [],
+        "imageId": null
+      }
+    ],
+    "questionType": true,
+    "imageIds": [],
+    "tags": [
+      {
+        "text": "国試第101回"
+      }
+    ],
+    "isDraft": true
+  },
+  {
+    "orgId": "",
+    "mainSentence": "髄管がみられるのはどれか。１つ選べ。",
+    "explanationMain": "歯髄腔を構成する髄室と髄管（根管）について問う基本的な問題である。<br /><br />単根歯は、歯冠側の歯髄腔である髄室と歯根内にある髄管が移行的で、明瞭な髄管が認められない。これに対し、複数根歯は、歯冠部にある髄室に比べ、歯根内にある髄管が急激に細くなるため、明瞭な髄管が認められる。<br /><br />",
+    "explanationImageIds": [],
+    "subSentence": "",
+    "questionChoices": [
+      {
+        "text": "上顎切歯",
+        "isCorrect": false,
+        "explanation": "×　上顎切歯は単根で、髄室と髄管の境界が明瞭でない。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "上顎犬歯",
+        "isCorrect": false,
+        "explanation": "×　上顎犬歯は単根で、髄室と髄管の境界が明瞭でない。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "下顎切歯",
+        "isCorrect": false,
+        "explanation": "×　下顎切歯は単根で、髄室と髄管の境界が明瞭でない。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "下顎小臼歯",
+        "isCorrect": false,
+        "explanation": "×　下顎小臼歯は単根で、髄室と髄管の境界が明瞭でない。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "下顎大臼歯",
+        "isCorrect": true,
+        "explanation": "○　下顎大臼歯は歯根が２本で、髄室と髄管の境界が明瞭である。",
+        "explanationImageIds": [],
+        "imageId": null
+      }
+    ],
+    "questionType": true,
+    "imageIds": [],
+    "tags": [
+      {
+        "text": "国試第101回"
+      }
+    ],
+    "isDraft": true
+  },
+  {
+    "orgId": "",
+    "mainSentence": "義歯性口内炎の好発部位はどれか。１つ選べ。",
+    "explanationMain": "義歯床下粘膜に生じやすい粘膜病変を理解する。<br /><br />＜義歯床下粘膜に生じやすい粘膜病変＞<br />(1)義歯性口内炎<br />短期的な機械的刺激、主にデンチャープラークに存在するカンジタ菌による感染が原因で発症する慢性炎症である。口蓋粘膜部に好発する。アレルギーや不適合義歯の刺激によっても発症することがある。<br />(2)褥瘡性潰瘍<br />短期的な機械的刺激いわゆる義歯床のあたりによる線維性結合組織の圧迫壊死である。<br />(3)義歯性線維腫<br />慢性的な機械的刺激による線維性結合組織の限局性過形成である。義歯床縁に好発する。原因を除去しても完全には消失しない。<br />(4)フラビーガム<br />顎堤粘膜への長期的な機械的刺激が原因で発症する歯槽粘膜結合組織のコンニャク状の慢性炎症性増殖物である。上顎前歯部顎堤に好発する。<br />(5)乳頭状過形成<br />義歯床粘膜面の緩衝腔不足などによる顎堤粘膜への圧迫が原因で発症する慢性炎症性増殖物である。硬口蓋の広範囲に乳頭状の突起物が生じるのが特徴である。<br /><br />",
+    "explanationImageIds": [],
+    "subSentence": "",
+    "questionChoices": [
+      {
+        "text": "頬粘膜",
+        "isCorrect": false,
+        "explanation": "×　頬粘膜部に義歯性口内炎が発症することは少ない。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "舌小帯",
+        "isCorrect": false,
+        "explanation": "×　舌小帯部に義歯性口内炎が発症することは少ない。小体部は義歯床のあたりが生じやすい部位であるため、褥瘡性潰瘍が好発しやすい。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "口蓋粘膜",
+        "isCorrect": true,
+        "explanation": "○　義歯性口内炎は主にデンチャープラークに存在するカンジタ菌による感染であるため､自浄性の乏しい口蓋粘膜部に好発しやすい。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "歯肉唇移行部",
+        "isCorrect": false,
+        "explanation": "×　歯肉唇移行部いわゆる義歯床辺縁部は義歯性線維腫や褥瘡性潰瘍が好発しやすい。",
+        "explanationImageIds": [],
+        "imageId": null
+      },
+      {
+        "text": "歯肉頬移行部",
+        "isCorrect": false,
+        "explanation": "×　歯肉頬移行部も義歯床辺縁部に相当するため、義歯性線維腫や褥瘡性潰瘍が好発しやすい。",
+        "explanationImageIds": [],
+        "imageId": null
+      }
+    ],
+    "questionType": true,
+    "imageIds": [],
+    "tags": [
+      {
+        "text": "国試第101回"
+      }
+    ],
+    "isDraft": true
+  }
+]
