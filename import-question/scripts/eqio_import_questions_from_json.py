@@ -72,7 +72,14 @@ def main():
         for q in questions:
             q["orgId"] = org_id
 
-        import_questions(token, questions)
+        # questionsが10件以上の場合は最大10件づつに分割して送信。
+        # 10で割り切れない場合は、最後の部分が10件未満になる。
+        chunk_size = 10
+        for i in range(0, len(questions), chunk_size):
+            chunk = questions[i:i + chunk_size]
+            print(f"📥 インポート中: {i + 1}〜{min(i + chunk_size, len(questions))}件")
+            # インポート処理を呼び出す
+            import_questions(token, chunk)
     except Exception as e:
         print(f"❌ エラー: {e}")
 
