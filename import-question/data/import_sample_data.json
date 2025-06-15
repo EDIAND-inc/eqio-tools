@@ -43,7 +43,7 @@
       }
     ],
     "questionType": true,
-    "imageIds": [],
+    "imageIds": ["image/nationalexams/2008/A/39/1.jpg"],
     "tags": [
       {
         "text": "国試第101回"
@@ -95,7 +95,9 @@
       }
     ],
     "questionType": true,
-    "imageIds": [],
+    "imageIds": ["image/nationalexams/2008/A/105/1.jpg",
+                "image/nationalexams/2008/A/105/2.jpg"
+              ],
     "tags": [
       {
         "text": "国試第101回"
