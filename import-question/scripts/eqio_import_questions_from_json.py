@@ -3,9 +3,8 @@ import getpass
 import json
 import os
 import boto3
-import json
 import botocore.exceptions
-from datetime import datetime,timedelta
+from datetime import datetime, timedelta
 
 BASE_URL = "https://4nqdy3iwwb.ap-northeast-1.awsapprunner.com"
 
@@ -242,7 +241,7 @@ def import_images(orgId, questions, token):
                 # Original s3_image_key remains in place
             except json.JSONDecodeError as e:
                 print(f"❌ Failed to decode JSON response for '{s3_image_key}': {e}")
-                if 'response' in locals() and response is not None: # Check if response variable exists
+                if 'response' in locals() and response is not None:  # Check if response variable exists
                     print(f"📥 Response Body: {response.text}")
                 # Original s3_image_key remains in place
             except KeyError:
@@ -252,7 +251,7 @@ def import_images(orgId, questions, token):
                 elif 'response' in locals() and response is not None:
                     print(f"📥 Response Text: {response.text}")
                 # Original s3_image_key remains in place
-            except requests.exceptions.RequestException as e: # Other network errors like ConnectionError
+            except requests.exceptions.RequestException as e:  # Other network errors like ConnectionError
                 print(f"❌ Network error during upload of '{s3_image_key}': {e}")
                 # Original s3_image_key remains in place
             except Exception as e: # Catch any other unexpected errors for this image
@@ -299,7 +298,7 @@ def create_exam_slots(examInfo, user_id, questions, token):
             "examinationId": examInfo["id"],
             "questionId": q["id"],
             "description": examInfo["description"],
-            "status": "init",  # スロットのステータスを設定
+            "status": "completed",  # スロットのステータスを設定
             "assignerId": user_id,
             "reviewerIds": [user_id]
         })
